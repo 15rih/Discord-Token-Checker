@@ -5,4 +5,4 @@ Put you're token's inside of the tokens.txt file.
 Run the run.bat file
 All valid tokens will be saved to the Good.txt file.
 
-<NODE.JS MUST BE DOWNLOADED>
+<"NODE.JS MUST BE DOWNLOADED">
